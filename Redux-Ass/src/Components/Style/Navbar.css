@@ -1,0 +1,29 @@
+.Navbar{
+    /* border: 2px solid red; */
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Navbar ul{
+    /* border: 2px solid blue; */
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Navbar ul li{
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight:700;
+    color: white;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
