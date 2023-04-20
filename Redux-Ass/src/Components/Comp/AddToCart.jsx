@@ -43,6 +43,8 @@ const AddToCart = () => {
               })}
             </div>
         }
+
+       
       </div>
     </div>
   )
