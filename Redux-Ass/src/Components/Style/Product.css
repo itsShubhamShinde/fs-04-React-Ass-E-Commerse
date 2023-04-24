@@ -20,7 +20,6 @@
     box-shadow: 0 0 10px black;
     height: 400px ;
     width: 350px;
-    background-color: beige;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
